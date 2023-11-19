@@ -1,0 +1,15 @@
+id: asociados
+title: Asociados
+icon: handshake
+rows:
+- type: columns
+  design:
+    align_y: center
+    hide_radius: true
+  items:
+  - image: logo-asociae.svg
+  - description: |
+      Pertenecemos a [ASOCIAE](https://asociae.com/) (**Asociación de Asesores Excelentes**), mediante la cual, entre muchas otras ventajas,
+      nos podemos ofrecer como [Punto de Atención al Emprendedor (PAE)](#pae).
+    more:
+      align: left

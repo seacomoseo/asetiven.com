@@ -1,0 +1,32 @@
+baseURL: https://asetiven.com
+Paginate: 24
+buildFuture: false
+theme: [sansoul]
+params:
+  git_url: https://gitlab.com/asetiven/asetiven.com
+  netlify_name: asetiven
+  netlify_id: 3b6046ee-0eca-4d49-b4c5-d4419f4eeb7e
+  drive_link: https://drive.google.com/file/d/1z_h35R31Nnpxrc7xQ1W75oP02mdowwKB
+  drive_mails: asetivengyc@gmail.com
+defaultContentLanguage: es
+disableLanguages: [en]
+languages:
+  es:
+    paginatePath: pagina
+    permalinks:
+      page:
+        pages: :slug
+        blog: :slug
+        events: evento/:year/:month/:day/:slug
+        products: producto/:slug
+        categories: categoria/:slug
+        tags: etiqueta/:slug
+        authors: autor/:slug
+      section:
+        pages: paginas
+        blog: blog
+        events: eventos
+        products: productos
+        categories: categorias
+        tags: etiquetas
+        authors: autores

@@ -1,0 +1,15 @@
+id: header
+anchor: Asesoría Jurídico, Fiscal y Contable en Murcia
+# description: |
+#   [btn icon-plus Más](#principal)
+color: dark
+image: logo.svg
+bg: fondo.jpg
+more:
+  full_screen: true
+  padding_bottom: 5
+  image_min: 18
+  image_max: 24
+  opacity: 30
+  parallax: true
+  divider: arrow-fill

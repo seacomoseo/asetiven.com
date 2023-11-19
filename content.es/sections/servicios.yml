@@ -1,0 +1,26 @@
+id: servicios
+title: Servicios
+# subtitle: Asesoría
+anchor: Servicios de Asesoría
+icon: user-tie
+rows:
+- type: columns
+  design:
+    num_xs: true
+  items:
+  - title: Jurídico
+    link: '#asesoria-juridica'
+    anchor: Asesoría Jurídica
+    icon: scale-balanced
+  - title: Fiscal
+    link: '#asesoria-fiscal'
+    anchor: Asesoría Fiscal
+    icon: coin-vertical
+  - title: Contable
+    link: '#asesoria-contable'
+    anchor: Asesoría Contable
+    icon: book
+  - title: Laboral
+    link: '#asesoria-laboral'
+    anchor: Asesoría Laboral
+    icon: briefcase

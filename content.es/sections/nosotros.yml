@@ -1,0 +1,21 @@
+id: nosotros
+title: Nosotros
+icon: circle-info
+rows:
+- type: columns
+  items:
+  - bg: fondo.jpg
+    more:
+      align_y: strech
+  - description: |
+      Somos una asesoría especializada en servicios de asesoría jurídica nacional e
+      internacional, fiscal, contable y laboral para autónomos y pymes.
+
+      Nuestro trabajo destaca por ser único y diferencial, por resolver cada reto que
+      nos proponen nuestros clientes aportando un servicio de confianza.
+
+      Contamos con un equipo con dilatada experiencia nacional e internacional en
+      diferentes áreas de actuación, con un alto grado de especialización.
+    more:
+      align: left
+      align_y: center

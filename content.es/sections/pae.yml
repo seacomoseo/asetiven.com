@@ -1,0 +1,22 @@
+id: pae
+title: PAE
+subtitle: Punto de Atención al Emprendedor
+anchor: Punto de Atención al Emprendedor
+icon: arrow-pointer
+rows:
+- type: columns
+  design:
+    align_y: bottom
+    hide_radius: true
+  items:
+  - order: 2
+    image: logo-pae.svg
+  - link: https://paeelectronico.es/es-es/CanalPAE/Paginas/QueEsPAE.aspx
+    description: |
+      Como PAE, nos encargamos de facilitar la creación de nuevas empresas,
+      el inicio efectivo de su actividad y su desarrollo, a través de la prestación de servicios de información,
+      tramitación de documentación, asesoramiento, formación y apoyo a la financiación empresarial.
+    more:
+      align: left
+      align_xl: right
+      ofuscate: true
