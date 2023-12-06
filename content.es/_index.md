@@ -6,8 +6,6 @@ description: llll➤ Asesoría especializada en servicios de asesoría jurídica
 image: logo.png
 draft: false
 noindex: false
-menu:
-  logo: logo-alt.svg
 sections:
 - file: header
 - file: servicios
