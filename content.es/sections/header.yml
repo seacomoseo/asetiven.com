@@ -12,4 +12,5 @@ more:
   image_max: 24
   opacity: 30
   parallax: true
-  divider: arrow-fill
+  divider: arrow
+  flip_y: true
